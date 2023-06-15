@@ -124,7 +124,7 @@ main{
 .btn_2:hover{
     opacity: .8;
 }
-form button{
+nav form button{
     padding: .5rem 10px;
     border-radius: 40%;
     border: none;
@@ -135,7 +135,7 @@ form button{
     width: 50px;
 }
 
-form input {
+nav form input {
     padding: .5rem 1rem;
     border-radius: 10px;
     border: #FE6F60 solid 1px;
